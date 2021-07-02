@@ -1,0 +1,186 @@
+,Country,GDP (PPP) per capita (2017),GDP (nominal) per capita (2017),"vs. World PPP GDP per capita (17,100)",iso_code
+0,Qatar,128647,"61,264",752%,QAT
+1,Macao,115367,"80,890",675%,MAC
+2,Luxembourg,107641,"105,280",629%,LUX
+3,Singapore,94105,"56,746",550%,SGP
+4,Brunei,79003,"28,572",462%,BRN
+5,Ireland,76745,"69,727",449%,IRL
+6,United Arab Emirates,74035,"40,325",433%,ARE
+7,Kuwait,72096,"29,616",422%,KWT
+8,Switzerland,66307,"80,296",388%,CHE
+9,San Marino,63549,"48,495",372%,SMR
+10,Norway,62183,"75,428",364%,NOR
+11,Hong Kong,61671,"46,733",361%,HKG
+12,United States,59928,"59,939",350%,USA
+13,Iceland,55322,"73,233",324%,ISL
+14,Netherlands,54422,"48,796",318%,NLD
+15,Denmark,54356,"57,545",318%,DNK
+16,Saudi Arabia,53893,"20,747",315%,SAU
+17,Austria,53879,"47,261",315%,AUT
+18,Germany,52556,"44,680",307%,DEU
+19,Sweden,51405,"54,075",301%,SWE
+20,Australia,49378,"53,831",289%,AUS
+21,Belgium,49367,"43,325",289%,BEL
+22,Bahrain,47708,"23,715",279%,BHR
+23,Canada,46510,"44,841",272%,CAN
+24,Finland,46344,"45,778",271%,FIN
+25,United Kingdom,44920,"39,532",263%,GBR
+26,France,44033,"39,827",258%,FRA
+27,Japan,42067,"38,214",246%,JPN
+28,Oman,41331,"15,170",242%,OMN
+29,Italy,40924,"32,038",239%,ITA
+30,Malta,40797,"28,585",239%,MLT
+31,New Zealand,40748,"43,415",238%,NZL
+32,Aruba,39493,"25,630",231%,ABW
+33,Spain,39037,"28,175",228%,ESP
+34,Israel,38868,"42,852",227%,ISR
+35,South Korea,38824,"29,958",227%, 
+36,Czech Republic (Czechia),38020,"20,291",222%, 
+37,Slovenia,36387,"23,488",213%,SVN
+38,Cyprus,36012,"18,695",211%,CYP
+39,Estonia,33448,"20,170",196%,EST
+40,Lithuania,33253,"16,709",194%,LTU
+41,Portugal,32554,"21,316",190%,PRT
+42,Slovakia,32371,"17,551",189%,SVK
+43,Trinidad and Tobago,31645,"15,952",185%,TTO
+44,Bahamas,30495,"31,858",178%,BHS
+45,Poland,29924,"13,871",175%,POL
+46,Malaysia,29511,"10,118",173%,MYS
+47,Seychelles,29328,"15,536",172%,SYC
+48,Hungary,28799,"14,364",168%,HUN
+49,Saint Kitts & Nevis,28636,"19,061",167%, 
+50,Greece,28583,"19,214",167%,GRC
+51,Latvia,28362,"15,613",166%,LVA
+52,Turkey,28002,"10,498",164%,TUR
+53,Romania,26660,"10,781",156%,ROU
+54,Kazakhstan,26491,"9,009",155%,KAZ
+55,Croatia,26296,"13,200",154%,HRV
+56,Russia,25763,"10,846",151%,RUS
+57,Chile,24747,"15,001",145%,CHL
+58,Panama,24521,"15,166",143%,PAN
+59,Equatorial Guinea,24439,"9,741",143%,GNQ
+60,Antigua and Barbuda,23522,"15,825",138%,ATG
+61,Uruguay,22610,"16,341",132%,URY
+62,Mauritius,22356,"10,491",131%,MUS
+63,Bulgaria,20948,"8,197",123%,BGR
+64,Iran,20885,"5,628",122%,IRN
+65,Argentina,20829,"14,508",122%,ARG
+66,Libya,19673,"5,791",115%,LBY
+67,Montenegro,19355,"7,720",113%,MNE
+68,Belarus,18896,"5,762",111%,BLR
+69,Mexico,18656,"9,224",109%,MEX
+70,Barbados,18559,"16,328",109%,BRB
+71,Gabon,18113,"7,271",106%,GAB
+72,Turkmenistan,18031,"6,587",105%,TKM
+73,Thailand,17910,"6,579",105%,THA
+74,Azerbaijan,17450,"4,139",102%,AZE
+75,Costa Rica,17110,"11,573",100%,CRI
+76,Botswana,17024,"7,894",100%,BWA
+77,Iraq,16935,"5,114",99%,IRQ
+78,China,16842,"8,612",98%,CHN
+79,Maldives,16688,"9,802",98%,MDV
+80,Dominican Republic,16064,"7,223",94%,DOM
+81,Brazil,15553,"9,881",91%,BRA
+82,Serbia,15432,"4,692",90%,SRB
+83,Algeria,15293,"4,048",89%,DZA
+84,North Macedonia,15290,"5,418",89%,MKD
+85,Suriname,15191,"5,251",89%,SUR
+86,Grenada,15156,"10,164",89%,GRD
+87,Palau,14854,"16,275",87%,PLW
+88,Lebanon,14513,"7,857",85%,LBN
+89,Colombia,14503,"6,429",85%,COL
+90,Saint Lucia,13986,"9,602",82%,LCA
+91,South Africa,13526,"6,120",79%,ZAF
+92,Peru,13463,"6,723",79%,PER
+93,Paraguay,13109,"5,776",77%,PRY
+94,Bosnia and Herzegovina,13108,"5,387",77%,BIH
+95,Mongolia,12946,"3,672",76%,MNG
+96,Albania,12943,"4,521",76%,ALB
+97,Sri Lanka,12863,"4,135",75%,LKA
+98,Indonesia,12310,"3,837",72%,IDN
+99,Tunisia,11936,"3,494",70%,TUN
+100,St. Vincent & Grenadines,11769,"7,150",69%, 
+101,Ecuador,11612,"6,214",68%,ECU
+102,Egypt,11608,"2,441",68%,EGY
+103,Georgia,10674,"3,762",62%,GEO
+104,Namibia,10471,"5,516",61%,NAM
+105,Dominica,10037,"6,951",59%,DMA
+106,Armenia,9668,"3,918",57%,ARM
+107,Fiji,9575,"5,768",56%,FJI
+108,Bhutan,9392,"3,391",55%,BTN
+109,Jordan,9173,"4,095",54%,JOR
+110,Jamaica,9066,"5,061",53%,JAM
+111,Ukraine,8699,"2,521",51%,UKR
+112,Eswatini,8659,"3,942",51%,SWZ
+113,Belize,8525,"4,957",50%,BLZ
+114,Philippines,8361,"2,982",49%,PHL
+115,Morocco,8225,"3,083",48%,MAR
+116,Guyana,8180,"4,671",48%,GUY
+117,Guatemala,8168,"4,471",48%,GTM
+118,El Salvador,8023,"3,883",47%,SLV
+119,Bolivia,7576,"3,351",44%,BOL
+120,Timor-Leste,7228,"2,377",42%,TLS
+121,India,7166,"1,980",42%,IND
+122,Laos,7038,"2,424",41%, 
+123,Cabo Verde,6913,"3,298",40%,CPV
+124,Uzbekistan,6880,"1,554",40%,UZB
+125,Vietnam,6790,"2,366",40%,VNM
+126,Angola,6658,"4,096",39%,AGO
+127,Samoa,6641,"4,305",39%,WSM
+128,Myanmar,6174,"1,256",36%,MMR
+129,Tonga,5969,"4,193",35%,TON
+130,Nigeria,5887,"1,969",34%,NGA
+131,Nicaragua,5855,"2,164",34%,NIC
+132,Moldova,5711,"2,002",33%,MDA
+133,Pakistan,5539,"1,467",32%,PAK
+134,Congo,5454,"1,703",32%,COG
+135,Honduras,4997,"2,437",29%,HND
+136,Sudan,4914,"2,879",29%,SDN
+137,State of Palestine,4896,"3,054",29%,PSE
+138,Ghana,4502,"2,026",26%,GHA
+139,Marshall Islands,4247,"3,517",25%,MHL
+140,Papua New Guinea,4208,"2,434",25%,PNG
+141,Zambia,4033,"1,535",24%,ZMB
+142,Cambodia,4018,"1,384",23%,KHM
+143,Mauritania,3958,"1,173",23%,MRT
+144,Côte d'Ivoire,3945,"1,529",23%,CIV
+145,Tuvalu,3933,"3,494",23%,TUV
+146,Bangladesh,3877,"1,564",23%,BGD
+147,Kyrgyzstan,3735,"1,222",22%,KGZ
+148,Cameroon,3722,"1,422",22%,CMR
+149,Micronesia,3701,631,22%,FSM
+150,Senegal,3458,"1,366",20%,SEN
+151,Sao Tome & Principe,3359,"1,896",20%, 
+152,Kenya,3292,"1,578",19%,KEN
+153,Vanuatu,3215,"3,022",19%,VUT
+154,Tajikistan,3202,805,19%,TJK
+155,Tanzania,2948,975,17%,TZA
+156,Lesotho,2932,"1,233",17%,LSO
+157,Comoros,2751,"1,312",16%,COM
+158,Nepal,2702,900,16%,NPL
+159,Yemen,2606,"1,123",15%,YEM
+160,Zimbabwe,2434,"1,548",14%,ZWE
+161,Solomon Islands,2427,"2,049",14%,SLB
+162,Benin,2276,827,13%,BEN
+163,Guinea,2247,868,13%,GIN
+164,Mali,2218,828,13%,MLI
+165,Kiribati,2185,"1,626",13%,KIR
+166,Rwanda,2043,762,12%,RWA
+167,Afghanistan,1976,538,12%,AFG
+168,Chad,1945,657,11%,TCD
+169,Ethiopia,1903,757,11%,ETH
+170,Uganda,1868,631,11%,UGA
+171,Burkina Faso,1866,642,11%,BFA
+172,Haiti,1819,766,11%,HTI
+173,Guinea-Bissau,1704,737,10%,GNB
+174,Gambia,1699,673,10%,GMB
+175,Togo,1663,618,10%,TGO
+176,Madagascar,1558,450,9%,MDG
+177,Sierra Leone,1530,504,9%,SLE
+178,Liberia,1285,699,8%,LBR
+179,Mozambique,1250,441,7%,MOZ
+180,Malawi,1205,357,7%,MWI
+181,Niger,1019,376,6%,NGA
+182,DR Congo,889,462,5%, 
+183,Burundi,735,293,4%,BDI
+184,Central African Republic,727,424,4%,CAF
