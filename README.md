@@ -12,7 +12,7 @@
 
 ### Como acessar? 🧪
 * Para acessar a aplicação, fique a vontade para clonar esse repositório em sua máquina! 
-* Recomendamos fortemente a leitura da nossa [documentação](https://github.com/turquetti/Projeto-4-vamoai/documentacao.md) para maiores informações sobre fonte e uso das bases de dados usadas e criadas no projeto. 
+* Recomendamos fortemente a leitura da nossa [documentação](https://github.com/turquetti/projeto-4-vamoai/blob/main/documentacao.md) para maiores informações sobre fonte e uso das bases de dados usadas e criadas no projeto. 
 * Para acessar nossa **visualização dos dados** via *Tableau*, clique aqui.
 
 <h3 align="center"> GRUPO 3 </h3> 
